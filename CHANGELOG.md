@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## (2023-10-12) Colin
+- Bumps Node engine to 14.17.5
+- Locks ember-composability-tools to "1.0.1", build incompaitibility I could not fix without.
+- Adds fontSize to initTextLabel to reflect style on initial load.
+- Fixes a bug in a specific call of Ember.set(). Or hides it. But it works. 
+
 ## [5.0.0](https://github.com/knownasilya/google-maps-markup/compare/v4.0.0...v5.0.0) (2021-06-08)
 
 

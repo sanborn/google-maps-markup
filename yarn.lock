@@ -6448,7 +6448,7 @@ ember-compatibility-helpers@^1.2.1:
     fs-extra "^9.1.0"
     semver "^5.4.1"
 
-ember-composability-tools@^1.0.1:
+ember-composability-tools@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/ember-composability-tools/-/ember-composability-tools-1.0.1.tgz#d1cb5364d8ac136c0001ff932e7140b8ec7da367"
   integrity sha512-RnJso6oAd2+bZ7U/AozCNTkIT140wO6OnoHoamtDgeLPBUBKm3rzPFUojnz69vmR91HEOYeJMUcBuLjc3ojMwg==

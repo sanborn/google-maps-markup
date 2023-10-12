@@ -11,10 +11,10 @@ export default function initTextLabel(result, layer, map) {
     let center = featureCenter(layerFeature);
     let style = layerFeature.getProperty('style');
     let DynamicLabel = factoryDynamicLabel();
-
     result.feature = new DynamicLabel(center, {
       label: layerFeature.getProperty('label'),
       color: style && style.color,
+      fontSize: style && style.fontSize
     });
 
     if (map) {
