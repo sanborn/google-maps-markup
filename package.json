@@ -38,11 +38,11 @@
     "ember-auto-import": "^1.11.3",
     "ember-cli-babel": "^7.26.5",
     "ember-cli-htmlbars": "^5.7.1",
-    "ember-composability-tools": "1.0.1",
+    "ember-composability-tools": "1.0.2",
     "ember-copy": "^2.0.1",
     "ember-drag-drop": "0.9.0-beta.0",
     "ember-palette": "^3.0.2",
-    "ember-power-select": "^4.1.5",
+    "ember-power-select": "^4.1.6",
     "ember-wormhole": "^0.6.0",
     "uuid": "^8.3.2"
   },
